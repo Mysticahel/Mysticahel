@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mysticahel
+- 👋 Hi, I’m @Nonaxce or Nonaxcer
 - 👀 I’m interested in (Art, Webdesign, and Websites in general)
-- 🌱 I’m currently learning (Javascript, HTML & CSS, and some Python)
+- 🌱 I’m currently learning (Javascript, HTML & CSS, Python, and some C++)
 - 💞️ I’m looking to collaborate on (no one)
-- 📫 How to reach me (don't I don't work I am a minor)
+- 📫 How to reach me (don't)
 
 <!---
 Mysticahel/Mysticahel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
